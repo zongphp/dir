@@ -1,0 +1,19 @@
+{
+  "name": "zongphp/dir",
+  "description": "目录组件用于对常用目录操作的实现",
+  "keywords": [
+    "zongphp",
+    "目录管理"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\dir\\": "src"
+    }
+  }
+}
